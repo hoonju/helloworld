@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "meB6gRE5SZ0oHziA9+yE5kDj9n+1KGgeCWbKik0nvFeLM1u713oAuV5SseSy8XAz2ESlfOD3HsxCo8J8fNPwjQ==",
+  "dgSpecHash": "GwstF8YBYbYneOgtnGLF578K9z2FCbSvE6RYAPxOHvPkTVQBsGFQKAR3LBMdGtKDMnA8G9IBZInD2SIXjcX3EA==",
   "success": true,
-  "projectFilePath": "/Users/alchera/__ws/__csharp/__mac/helloworld/helloworld.csproj",
+  "projectFilePath": "/Users/alchera/__ws2/__csharp/__mac/helloworld/helloworld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

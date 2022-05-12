@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alchera/__ws/__csharp/__mac/helloworld/helloworld.csproj",
+      "projectUniqueName": "/Users/alchera/__ws2/__csharp/__mac/helloworld/helloworld.csproj",
       "projectName": "helloworld",
-      "projectPath": "/Users/alchera/__ws/__csharp/__mac/helloworld/helloworld.csproj",
+      "projectPath": "/Users/alchera/__ws2/__csharp/__mac/helloworld/helloworld.csproj",
       "packagesPath": "/Users/alchera/.nuget/packages/",
-      "outputPath": "/Users/alchera/__ws/__csharp/__mac/helloworld/obj/",
+      "outputPath": "/Users/alchera/__ws2/__csharp/__mac/helloworld/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alchera/.nuget/NuGet/NuGet.Config"
